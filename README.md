@@ -1,1 +1,1 @@
-Hey, Glad your're here 
+Hey there, your're doing great.
