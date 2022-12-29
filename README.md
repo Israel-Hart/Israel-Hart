@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Hart Isreal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Hart Isreal </b><img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=orange&size=25&center=true&vCenter=true&width=600&height=100&lines=Hart Israel Tamunotonye..&hearts;++;Self-taught+Full-stack+Developer,;IT+Support+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -12,7 +12,7 @@
 	
 ## <picture><img src = "https://camo.githubusercontent.com/7eb44783ce417ae7261fbcea3b9aa6a71a281326b36e62becd958a685e3b3ab0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f312a6c684f617833635a4154475a774568473075545952412e676966" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://gifdb.com/gif/animated-programmer-guy-coding-790a0bs8e8thpisg.html)" width = 250px></picture>
+<picture> <img align="right" src="https://gifdb.com/gif/animated-programmer-guy-coding-790a0bs8e8thpisg.html" width = 250px></picture>
 
 <br>
 
