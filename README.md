@@ -1,2 +1,2 @@
-# **Hey,**<br>
-##> *Your're doing great.*
+# **Hey, :hand: **<br>
+##> *Your're doing great. :fist:*
